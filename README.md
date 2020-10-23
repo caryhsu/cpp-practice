@@ -6,8 +6,8 @@
         #include <iostream>
         using namespace std;
         
-        int data[] = {1, 3, 4, 3, 2, 2, 1};
-        int ldata = 7;
+		int vals[] = {1, 3, 4, 3, 2, 2, 1};
+		int nvals = 7;
         
         int main()
         {
@@ -19,5 +19,9 @@
         ```
         1 3 4 3 2 2 1 
         ```
+        參考答案: https://repl.it/@cary/BustlingPrevailingCoin
   2. 找出最大值與最小值
   3. 
+
+  
+  
